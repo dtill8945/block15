@@ -29,3 +29,5 @@ surveyObject.futureFlavors = "mango",
 surveyObject.todaysPurchaseCost = 5.32
 
 console.log(surveyObject);
+
+console.log(Object.keys(surveyObject));
